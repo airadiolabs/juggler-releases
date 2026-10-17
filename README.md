@@ -6,6 +6,9 @@ A keyboard-driven music scheduler for radio. JUGGLER builds the day's music log 
 library, clocks and rules, explains every choice it makes, and lets you edit the result by hand,
 all from the keyboard in a fast, DOS-style screen.
 
+<p align="center"><img src="screenshots/main-menu.png" width="720" alt="The main menu"></p>
+<p align="center"><img src="screenshots/manual-scheduler.png" width="720" alt="A scheduled hour in the manual scheduler"></p>
+
 This repository holds the published builds. Download them from
 [Releases](https://github.com/airadiolabs/juggler-releases/releases).
 
